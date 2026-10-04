@@ -1,2 +1,14 @@
-# created by virtualenv automatically
-*
+# Virtual environments
+.venv/
+venv/
+bin/
+lib/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.pyc
+
+# Local data
+db.sqlite3
+.DS_Store
